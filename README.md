@@ -1,7 +1,7 @@
 ## Welcome to Repository of Publications.
 
-[link]Fake Math Papers
-[link]Fake Computer Science Papers
+1. [./Fake Math]Fake Math Papers
+2. [./Fake CompSci]Fake Computer Science Papers
 
 
 
@@ -11,5 +11,5 @@
 
 
 
-### Contact
+## Contact
 For more information, contact Dr Bheemaiah, Anil Kumar at bheemaiaha@yopmail.com
