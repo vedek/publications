@@ -10,4 +10,4 @@ Here are some examples:
 
 [Here are the CFG rules for the generator, you can also import this and add example texts to Rita.JS](https://github.com/strib/scigen/blob/master/scirules.in)
 
-[Back Home](./README.md)
+[Back Home](<https://vedek.github.io/publications>)
