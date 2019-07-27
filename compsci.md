@@ -9,3 +9,5 @@ Here are some examples:
 [Here is the code](https://github.com/strib/scigen)
 
 [Here are the CFG rules for the generator, you can also import this and add example texts to Rita.JS](https://github.com/strib/scigen/blob/master/scirules.in)
+
+[Back Home](./Readme.md)
