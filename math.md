@@ -10,3 +10,4 @@ Here are some examples:
 [Here is the code on GitHub](https://github.com/neldredge/mathgen)
 
 [Here are the CFG rules....., try importing them to Rita.JS](https://github.com/neldredge/mathgen/blob/master/scirules.in)
+[Back Home](README.md)
