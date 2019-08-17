@@ -2,6 +2,8 @@
 
 1. [Fake Math Papers](./math.md)
 2. [Fake CompSci Papers](./compsci.md)
+3. [Recreational Math Papers](./recmath.md)
+4. [Serious papers](./serious.md)
 
 
 
